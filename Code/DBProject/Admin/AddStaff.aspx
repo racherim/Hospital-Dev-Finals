@@ -76,13 +76,13 @@
                     
                         <div class="col-sm-8 col-sm-offset-2 text">
                         
-                            <h1><strong>Hospital Management System</strong> Patient Registration Form</h1>
+                            <h1><strong>Hospital Management System</strong> Staff Registration Form</h1>
                             
                             <div class="description">
                             	<p>
-	                            	This is a patient registeration form for Hospital Management System.
+	                            	This is the Staff registeration form for Hospital Management System.
                                     </br>
-	                            	Fill out the information to register the staff member.
+	                            	Please fill out the information to register the staff member.
 	                            	
                                     
                             	</p>
@@ -114,7 +114,7 @@
                                 <div class="form-box" id="spaces">
                                     <div class="form-top">
                                         <div class="form-top-left">
-                                            <h3 style="font-family:Algerian">Patient Registration Form
+                                            <h3 style="font-family:Algerian">Staff Registration Form
                                             
                                             </h3>
 
@@ -145,7 +145,7 @@
                                             <asp:RequiredFieldValidator runat="server" ErrorMessage="*Required" ControlToValidate="BirthDate" ID="BDateReqiured" Display="Dynamic" Font-Bold="False" ForeColor="Red" SetFocusOnError="True"></asp:RequiredFieldValidator>
 
                                             <asp:RegularExpressionValidator ID="BirthDateValidator" runat="server" ErrorMessage="Birth Date Format Not Correct" ControlToValidate="BirthDate" Display="Dynamic" ValidationExpression="((?:0[1-9])|(?:1[0-2]))\/((?:0[0-9])|(?:[1-2][0-9])|(?:3[0-1]))\/(\d{4})" ForeColor="Red" SetFocusOnError="True"></asp:RegularExpressionValidator>
-                                            <asp:TextBox ID="BirthDate" runat="server" type="text" class="form-username form-control" placeholder="Birht Date (mm/dd/yyyy)"></asp:TextBox>
+                                            <asp:TextBox ID="BirthDate" runat="server" type="text" class="form-username form-control" placeholder="Birth Date (mm/dd/yyyy)"></asp:TextBox>
 
                                         </div>
 
@@ -169,34 +169,18 @@
 
 
 
-                                    <!--<div class="form-group">
+                                    <div class="form-group">
 
 
 
-                                        <asp:TextBox ID="Salary" runat="server" type="text" placeholder="Salary in Rupees" Width="221px"></asp:TextBox>
+                                        <asp:TextBox ID="Salary" runat="server" type="text" placeholder="Salary" Width="221px"></asp:TextBox>
 
                                         <asp:TextBox ID="Qual" runat="server" type="text" placeholder="Qualification"></asp:TextBox>
                                         <asp:TextBox ID="Designation" runat="server" type="text" placeholder="Designation" Width="243px"></asp:TextBox>
 
-                                    </div>-->
-
-                                     <div class="form-group">
-                                        <asp:TextBox ID="Age" runat="server" type="text" placeholder="Age" Width="221px"></asp:TextBox>
-                                        <asp:TextBox ID="height" runat="server" type="text" placeholder="Height"></asp:TextBox>
-                                        <asp:TextBox ID="weight" runat="server" type="text" placeholder="Weight" Width="243px"></asp:TextBox>
                                     </div>
 
-
-
-
-                                    <div class="form-group">
-
-
-                                        <asp:TextBox ID="symptoms" runat="server" class="form-username form-control" type="text" placeholder="Symptoms Experienced"></asp:TextBox>
-
-
-
-                                    </div>
+                                    
 
 
                                     <div class="form-group">

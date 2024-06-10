@@ -150,42 +150,6 @@ namespace DBProject
         protected global::System.Web.UI.WebControls.TextBox Designation;
 
         /// <summary>
-        /// Age control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Age;
-
-        /// <summary>
-        /// height control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox height;
-
-        /// <summary>
-        /// weight control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox weight;
-
-        /// <summary>
-        /// symptoms control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox symptoms;
-
-        /// <summary>
         /// Address control.
         /// </summary>
         /// <remarks>
