@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database Files\\Schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\DBProject\\SignUp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Code\\DBProject\\SignUp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\DBProject\\Clinic Management System.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Code\\DBProject\\Clinic Management System.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Insertions.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database Files\\Insertions.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
@@ -23,56 +35,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database Files\\Admin.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database Files\\Schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database Files\\Schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database Files\\Schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Admin.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database Files\\Admin.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Admin.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database Files\\Admin.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Doctor.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database Files\\Doctor.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Doctor.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database Files\\Doctor.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Patient.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database Files\\Patient.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Patient.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database Files\\Patient.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Insertions.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database Files\\Insertions.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Insertions.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database Files\\Insertions.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\SignUp.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database Files\\SignUp.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\SignUp.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database Files\\SignUp.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -91,61 +59,87 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SignUp.sql ",
-              "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\SignUp.sql",
-              "RelativeDocumentMoniker": "Database Files\\SignUp.sql",
-              "ToolTip": "SignUp.sql ",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-10T12:38:37.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Insertions.sql ",
-              "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Insertions.sql",
-              "RelativeDocumentMoniker": "Database Files\\Insertions.sql",
-              "ToolTip": "Insertions.sql ",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-10T12:38:21.349Z",
+              "Title": "SignUp.aspx",
+              "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\DBProject\\SignUp.aspx",
+              "RelativeDocumentMoniker": "Code\\DBProject\\SignUp.aspx",
+              "ToolTip": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\DBProject\\SignUp.aspx",
+              "RelativeToolTip": "Code\\DBProject\\SignUp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-10T13:09:46.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Patient.sql ",
-              "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Patient.sql",
-              "RelativeDocumentMoniker": "Database Files\\Patient.sql",
-              "ToolTip": "Patient.sql ",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-10T12:38:03.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Doctor.sql ",
-              "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Doctor.sql",
-              "RelativeDocumentMoniker": "Database Files\\Doctor.sql",
-              "ToolTip": "Doctor.sql ",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-10T12:37:48.584Z",
+              "Title": "Clinic Management System.csproj.user",
+              "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\DBProject\\Clinic Management System.csproj.user",
+              "RelativeDocumentMoniker": "Code\\DBProject\\Clinic Management System.csproj.user",
+              "ToolTip": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\DBProject\\Clinic Management System.csproj.user",
+              "RelativeToolTip": "Code\\DBProject\\Clinic Management System.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-06-10T13:05:34.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Admin.sql ",
-              "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Admin.sql",
-              "RelativeDocumentMoniker": "Database Files\\Admin.sql",
-              "ToolTip": "Admin.sql ",
+              "Title": "SignUp.sql",
+              "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\SignUp.sql",
+              "RelativeDocumentMoniker": "Database Files\\SignUp.sql",
+              "ToolTip": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\SignUp.sql",
+              "RelativeToolTip": "Database Files\\SignUp.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-10T12:37:32.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T12:38:37.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Insertions.sql",
+              "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Insertions.sql",
+              "RelativeDocumentMoniker": "Database Files\\Insertions.sql",
+              "ToolTip": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Insertions.sql",
+              "RelativeToolTip": "Database Files\\Insertions.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-10T12:38:21.349Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Patient.sql",
+              "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Patient.sql",
+              "RelativeDocumentMoniker": "Database Files\\Patient.sql",
+              "ToolTip": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Patient.sql",
+              "RelativeToolTip": "Database Files\\Patient.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-10T12:38:03.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Doctor.sql",
+              "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Doctor.sql",
+              "RelativeDocumentMoniker": "Database Files\\Doctor.sql",
+              "ToolTip": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Doctor.sql",
+              "RelativeToolTip": "Database Files\\Doctor.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-10T12:37:48.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.sql",
+              "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Admin.sql",
+              "RelativeDocumentMoniker": "Database Files\\Admin.sql",
+              "ToolTip": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Admin.sql",
+              "RelativeToolTip": "Database Files\\Admin.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-10T12:37:32.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Schema.sql ",
               "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Database Files\\Schema.sql",
               "RelativeDocumentMoniker": "Database Files\\Schema.sql",

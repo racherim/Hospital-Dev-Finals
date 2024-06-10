@@ -50,7 +50,7 @@
 
 
      //----------------------Function2-----------------------------//
-     function validateS() 
+     //function validateS() 
      {
          var Name      = document.getElementById('<%=sName.ClientID %>').value;
          var Bdate     = document.getElementById('<%=sBirthDate.ClientID %>').value;
