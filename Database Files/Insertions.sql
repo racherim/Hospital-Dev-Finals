@@ -26,16 +26,10 @@ insert into department values(5 , 'Neurology', 'A medical speciality dealing wit
 
 
 --LOGIN TABLE INSERTIION
-INSERT INTO LoginTable(Email, Password, Type) VALUES('farhan@gmail.com', 'abc', 2)
-INSERT INTO LoginTable(Email, Password, Type) VALUES('kashan@gmail.com', 'abc', 2)
-INSERT INTO LoginTable(Email, Password, Type) VALUES('hassaan@gmail.com', 'abc',2)
-INSERT INTO LoginTable(Email, Password, Type) VALUES('haris@gmail.com', 'abc', 2)
-INSERT INTO LoginTable(Email, Password, Type) VALUES('alvi@gmail.com', 'abc', 2)
-INSERT INTO LoginTable(Email, Password, Type) VALUES('talha@gmail.com', 'abc', 2)
-INSERT INTO LoginTable(Email, Password, Type) VALUES('shariq@gmail.com', 'abc', 2)
-INSERT INTO LoginTable(Email, Password, Type) VALUES('awais@gmail.com', 'abc', 2)
-INSERT INTO LoginTable(Email, Password, Type) VALUES('saifi@gmail.com', 'abc', 2)
-INSERT INTO LoginTable(Email, Password, Type) VALUES('mansha@gmail.com', 'abc', 2)
+INSERT INTO LoginTable(Email, Password, Type) VALUES('Aaron@gmail.com', 'doctor', 2)
+INSERT INTO LoginTable(Email, Password, Type) VALUES('Jheysen@gmail.com', 'doctor', 2)
+INSERT INTO LoginTable(Email, Password, Type) VALUES('Romel@gmail.com', 'doctor', 2)
+INSERT INTO LoginTable(Email, Password, Type) VALUES('Michael@gmail.com', 'doctor',2)
 
 INSERT INTO LoginTable(Email, Password, Type) VALUES('ABC@gmail.com', 'abc', 1)
 INSERT INTO LoginTable(Email, Password, Type) VALUES('DEF@gmail.com', 'abc', 1)
@@ -45,27 +39,14 @@ INSERT INTO LoginTable(Email, Password, Type) VALUES('XYZ@gmail.com', 'abc', 1)
 
 --DOCTOR INSERTIONS
 DECLARE @ID INT
-SELECT @ID = LoginID FROM LoginTable WHERE Email = 'farhan@gmail.com'
-INSERT INTO Doctor VALUES(@ID, 'Farhan Shoukat', '156133213', 'Enjoy, Lahore', '4-12-1996', 'M', 1, 2500, 30000, 4, 0, 'PHD IN EVERY FIELD KNOWN TO MAN', 'ENJOY', 10, 1)
-SELECT @ID = LoginID FROM LoginTable WHERE Email = 'kashan@gmail.com'
-INSERT INTO Doctor VALUES(@ID, 'KASHAN', '156133213', 'Enjoy, Lahore', '12-12-1996', 'M', 1, 3000, 25000, 3.5, 0, 'PHD IN EVERY FIELD KNOWN TO MAN', 'ENJOY', 10, 1)
-SELECT @ID = LoginID FROM LoginTable WHERE Email = 'hassaan@gmail.com'
-INSERT INTO Doctor VALUES(@ID, 'HASSAAN', '156133213', 'Enjoy, Lahore', '12-12-1996', 'M', 1, 1500, 20000, 5, 0, 'PHD IN EVERY FIELD KNOWN TO MAN', 'ENJOY', 10, 1)
-SELECT @ID = LoginID FROM LoginTable WHERE Email = 'haris@gmail.com'
-INSERT INTO Doctor VALUES(@ID, 'HARIS MUNEER', '156133213', 'Enjoy, Lahore', '05-04-1990', 'M', 1, 1000, 15000, 4.5, 0, 'PHD IN EVERY FIELD KNOWN TO MAN', 'ENJOY', 10, 1)
-SELECT @ID = LoginID FROM LoginTable WHERE Email = 'talha@gmail.com'
-INSERT INTO Doctor VALUES(@ID, 'Talha MUNEER', '156133213', 'Enjoy, Lahore', '05-04-1990', 'M', 2, 1000, 15000, 4.5, 0, 'PHD IN EVERY FIELD KNOWN TO MAN', 'ENJOY', 10, 1)
-SELECT @ID = LoginID FROM LoginTable WHERE Email = 'shariq@gmail.com'
-INSERT INTO Doctor VALUES(@ID, 'Shariq MUNEER', '156133213', 'Enjoy, Lahore', '05-04-1990', 'M', 2, 1000, 15000, 4.5, 0, 'PHD IN EVERY FIELD KNOWN TO MAN', 'ENJOY', 10, 1)
-SELECT @ID = LoginID FROM LoginTable WHERE Email = 'awais@gmail.com'
-INSERT INTO Doctor VALUES(@ID, 'Awais MUNEER', '156133213', 'Enjoy, Lahore', '05-04-1990', 'M', 3, 1000, 15000, 4.5, 0, 'PHD IN EVERY FIELD KNOWN TO MAN', 'ENJOY', 10, 1)
-SELECT @ID = LoginID FROM LoginTable WHERE Email = 'alvi@gmail.com'
-INSERT INTO Doctor VALUES(@ID, 'Alvi', '156133213', 'Enjoy, Lahore', '05-04-1990', 'M', 3, 1000, 15000, 4.5, 0, 'PHD IN EVERY FIELD KNOWN TO MAN', 'ENJOY', 10, 1)
-SELECT @ID = LoginID FROM LoginTable WHERE Email = 'saifi@gmail.com'
-INSERT INTO Doctor VALUES(@ID, 'Saifi', '156133213', 'Enjoy, Lahore', '05-04-1990', 'M', 4, 1000, 15000, 4.5, 0, 'PHD IN EVERY FIELD KNOWN TO MAN', 'ENJOY', 10, 1)
-SELECT @ID = LoginID FROM LoginTable WHERE Email = 'mansha@gmail.com'
-INSERT INTO Doctor VALUES(@ID, 'Mansha', '156133213', 'Enjoy, Lahore', '05-04-1990', 'M', 5, 1000, 15000, 4.5, 0, 'PHD IN EVERY FIELD KNOWN TO MAN', 'ENJOY', 10, 1)
-
+SELECT @ID = LoginID FROM LoginTable WHERE Email = 'Aaron@gmail.com'
+INSERT INTO Doctor VALUES(@ID, 'Aaron Rodriguez', '156133213', 'Enjoy, Lahore', '01-01-2000', 'M', 1, 2500, 30000, 4, 0, 'PHD IN EVERY FIELD KNOWN TO MAN', 'ENJOY', 10, 1)
+SELECT @ID = LoginID FROM LoginTable WHERE Email = 'Jheysen@gmail.com'
+INSERT INTO Doctor VALUES(@ID, 'Jheysen Pacheco', '156133213', 'Enjoy, Lahore', '02-02-2002', 'M', 1, 3000, 25000, 3.5, 0, 'PHD IN EVERY FIELD KNOWN TO MAN', 'ENJOY', 10, 1)
+SELECT @ID = LoginID FROM LoginTable WHERE Email = 'Romel@gmail.com'
+INSERT INTO Doctor VALUES(@ID, 'Romel Osorio', '156133213', 'Enjoy, Lahore', '03-03-2003', 'M', 1, 1500, 20000, 5, 0, 'PHD IN EVERY FIELD KNOWN TO MAN', 'ENJOY', 10, 1)
+SELECT @ID = LoginID FROM LoginTable WHERE Email = 'Michael@gmail.com'
+INSERT INTO Doctor VALUES(@ID, 'Michael Ubarco', '156133213', 'Enjoy, Lahore', '04-04-2004', 'M', 1, 1000, 15000, 4.5, 0, 'PHD IN EVERY FIELD KNOWN TO MAN', 'ENJOY', 10, 1)
 
 --PATIENT INSERTIONS
 DECLARE @P_ID INT
