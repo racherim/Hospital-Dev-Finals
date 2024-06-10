@@ -13,7 +13,7 @@
 
     html
     {
-      background-image:url("/assets/staff9.jpg");   
+      background-image:url("/assets/staff11.jpg");   
       background-size: cover;
       background-position: 0 -90px;
       background-attachment: fixed;
@@ -76,12 +76,13 @@
                     
                         <div class="col-sm-8 col-sm-offset-2 text">
                         
-                            <h1><strong>Healthcare Management System</strong> Patient Registration Form</h1>
+                            <h1><strong>Hospital Management System</strong> Patient Registration Form</h1>
                             
                             <div class="description">
                             	<p>
-	                            	This is a <strong>"registeration form"</strong> for Medix4 Health Care. 
-	                            	Fill out the information to register the staff member 
+	                            	This is a patient registeration form for Hospital Management System.
+                                    </br>
+	                            	Fill out the information to register the staff member.
 	                            	
                                     
                             	</p>
@@ -168,7 +169,7 @@
 
 
 
-                                    <div class="form-group">
+                                    <!--<div class="form-group">
 
 
 
@@ -177,12 +178,25 @@
                                         <asp:TextBox ID="Qual" runat="server" type="text" placeholder="Qualification"></asp:TextBox>
                                         <asp:TextBox ID="Designation" runat="server" type="text" placeholder="Designation" Width="243px"></asp:TextBox>
 
+                                    </div>-->
+
+                                     <div class="form-group">
+                                        <asp:TextBox ID="Age" runat="server" type="text" placeholder="Age" Width="221px"></asp:TextBox>
+                                        <asp:TextBox ID="height" runat="server" type="text" placeholder="Height"></asp:TextBox>
+                                        <asp:TextBox ID="weight" runat="server" type="text" placeholder="Weight" Width="243px"></asp:TextBox>
                                     </div>
 
 
 
 
+                                    <div class="form-group">
 
+
+                                        <asp:TextBox ID="symptoms" runat="server" class="form-username form-control" type="text" placeholder="Symptoms Experienced"></asp:TextBox>
+
+
+
+                                    </div>
 
 
                                     <div class="form-group">
@@ -254,7 +268,7 @@
 
             
 
-        <!-- Footer -->
+        <!-- Footer 
         <footer ">
         	<div class="container">
         		<div class="row">
@@ -270,7 +284,7 @@
         			
         		</div>
         	</div>
-        </footer>
+        </footer>-->
 
         <!-- Javascript -->
         <script src="/assets/js/jquery-1.11.1.min.js"></script>
