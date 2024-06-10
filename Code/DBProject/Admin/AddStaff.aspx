@@ -76,7 +76,7 @@
                     
                         <div class="col-sm-8 col-sm-offset-2 text">
                         
-                            <h1><strong>Medix4 Health Care</strong> Staff Registration Form</h1>
+                            <h1><strong>Healthcare Management System</strong> Patient Registration Form</h1>
                             
                             <div class="description">
                             	<p>
