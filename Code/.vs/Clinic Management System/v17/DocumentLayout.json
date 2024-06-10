@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\racherin\\Download\\Hospital_Management_ASP.NET-main\\Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|d:\\racherin\\download\\hospital_management_asp.net-main\\code\\dbproject\\dal\\mydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\dal\\mydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "myDAL.cs",
+              "DocumentMoniker": "D:\\racherin\\Download\\Hospital_Management_ASP.NET-main\\Code\\DBProject\\DAL\\myDAL.cs",
+              "RelativeDocumentMoniker": "DBProject\\DAL\\myDAL.cs",
+              "ToolTip": "D:\\racherin\\Download\\Hospital_Management_ASP.NET-main\\Code\\DBProject\\DAL\\myDAL.cs",
+              "RelativeToolTip": "DBProject\\DAL\\myDAL.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAiwMgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:06:09.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
