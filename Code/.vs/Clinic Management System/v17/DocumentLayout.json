@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\dbproject\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|c:\\users\\mikol\\documents\\github\\hospital-dev-finals\\code\\dbproject\\admin\\addstaff.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\dbproject\\admin\\addstaff.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\admin\\addstaff.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\dbproject\\dal\\mydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\dal\\mydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|c:\\users\\mikol\\documents\\github\\hospital-dev-finals\\code\\dbproject\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|c:\\users\\mikol\\documents\\github\\hospital-dev-finals\\code\\dbproject\\admin\\adminhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\admin\\adminhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|c:\\users\\mikol\\documents\\github\\hospital-dev-finals\\code\\dbproject\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,6 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\DBProject\\Admin\\Admin.Master",
+              "RelativeDocumentMoniker": "DBProject\\Admin\\Admin.Master",
+              "ToolTip": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\DBProject\\Admin\\Admin.Master",
+              "RelativeToolTip": "DBProject\\Admin\\Admin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-10T14:50:21.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminHome.aspx",
+              "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\DBProject\\Admin\\AdminHome.aspx",
+              "RelativeDocumentMoniker": "DBProject\\Admin\\AdminHome.aspx",
+              "ToolTip": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\DBProject\\Admin\\AdminHome.aspx",
+              "RelativeToolTip": "DBProject\\Admin\\AdminHome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-10T14:41:51.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "AddStaff.aspx",
               "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\DBProject\\Admin\\AddStaff.aspx",
               "RelativeDocumentMoniker": "DBProject\\Admin\\AddStaff.aspx",
@@ -43,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "SignUp.aspx",
               "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\DBProject\\SignUp.aspx",
               "RelativeDocumentMoniker": "DBProject\\SignUp.aspx",
@@ -53,18 +83,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-06-10T12:39:39.73Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "myDAL.cs",
-              "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\DBProject\\DAL\\myDAL.cs",
-              "RelativeDocumentMoniker": "DBProject\\DAL\\myDAL.cs",
-              "ToolTip": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\DBProject\\DAL\\myDAL.cs",
-              "RelativeToolTip": "DBProject\\DAL\\myDAL.cs",
-              "ViewState": "AQIAALEAAAAAAAAAAAAiwMgAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T12:06:09.539Z"
             }
           ]
         }

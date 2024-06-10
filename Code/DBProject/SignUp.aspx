@@ -5,12 +5,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 
-    <title>MedicX 4 Health Care Login &amp; Register</title>
+    <title>Hospital Management System &amp; Register</title>
 
 
  <script type="text/javascript">
 
-     //asdfasdfasdfa//
+     //dsfasdfasdfsadf//
      //----------------------Function1-----------------------------//
      function validateEmail(Email)
      {
@@ -43,11 +43,6 @@
 
          return true;
      }
-
-
-
-
-
 
      //----------------------Function2-----------------------------//
      function validateS() 
@@ -82,10 +77,8 @@
              return false;
          }
 
-
          if (!validateEmail(Email))
              return false;
-
 
          if (pass == "" || cpass == "")
          {
@@ -98,14 +91,12 @@
              alert("Passwords do not match.");
              return false;
          }
-            
 
          if (phone.length != 11)
          {
              alert("Phone number should be of 11 digits.");
              return false;
          }
-
 
          if (Request.Form["Gender"] == null)
          {
@@ -115,10 +106,6 @@
         
          return true;
      }
-
-
-
-
 
      //----------------------Function2-----------------------------//
      function validateL() 
@@ -130,7 +117,6 @@
 
          if (!validateEmail(Email))
              return false;
-
 
          if (Password == "")
          {
@@ -147,7 +133,6 @@
 
 </script>
 
-
     <!-- CSS -->
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,500"/>
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css"/>
@@ -162,11 +147,9 @@
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png"/>
     <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png"/>
 
-    
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
-
 
     <!-- Javascript -->
     <script src="assets/js/jquery-1.11.1.min.js"></script>
@@ -176,50 +159,36 @@
 
 </head>
 
-
-
 <body>
-
-    <form id="SignUpPage" runat ="server"  >
-				       
+    <form id="SignUpPage" runat ="server"  >       
         <div>    
-        <!-- Top content -->
-             	                                
+        <!-- Top content -->                                
         <div class="top-content"> 
             <div class="inner-bg">
                <div class="container">
-                    
                    <div class="row">
                          <div class="col-sm-8 col-sm-offset-2 text">
-                        
-                            <h1><strong>MedicX 4 Health Care</strong> Login &amp; Registration Form</h1>
-                            
+                            <h1><strong>Health Management System</strong> Login &amp; Registration Form</h1>
                             <div class="description">
                             	<p>
-	                            	This is a free <strong>"Login and Registration form"</strong> for Health Care Clinic. 
-                            	</p>                            
+                                    Please Login you account details to access your health or patient information.
+                            	</p>                           
                             </div>
                         </div>
                     </div>
-
                     
                     <div class="row">
                         <div class="col-sm-5">
                             <div class="form-box">
                                 <div class="form-top">
                                     <div class="form-top-left">
-	                        		
                                         <h3>Login to our Website</h3>
 	                            		<p>Enter Email and Password to log in:</p>
-
 	                        		</div>
-	                        		
                                     <div class="form-top-right">
 	                        			<i class="fa fa-key"></i>
 	                        		</div>
 	                           </div>
-	                            
-                                
                                 
                                 <div class="form-bottom">
 				                    
@@ -245,19 +214,8 @@
                                 </div>
 
 		                    </div>
-		                
-
-		                	<div class="social-login">
-	                        	<h3>...or login with:</h3>
-	                        	<div class="social-login-buttons">
-		                        	<a class="btn btn-link-1 btn-link-1-facebook" href="#">
-		                        		<i class="fa fa-facebook"></i> Facebook
-		                        	</a>
-	                        	</div>
-	                        </div>
 	                        
                         </div>
-                        
 
                         <div class="col-sm-1 middle-border"></div>
                         <div class="col-sm-1"></div>
@@ -350,25 +308,18 @@
             </div>
         </div>
  
-
         <!-- Footer -->
         <footer>
         	<div class="container">
         		<div class="row">
-        			
         			<div class="col-sm-8 col-sm-offset-2">
         				<div class="footer-border"></div>
         				<p>If you have any query, please feel free to contact us. <i class="fa fa-smile-o"></i></p>
                     </div>
-        			
         		</div>
         	</div>
         </footer>
-
-       
         </div>
     </form>
-
-
 </body>
 </html>

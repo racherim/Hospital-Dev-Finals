@@ -7,11 +7,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DBProject {
-    
-    
-    public partial class AddStaff {
-        
+namespace DBProject
+{
+
+
+    public partial class AddStaff
+    {
+
         /// <summary>
         /// form1 control.
         /// </summary>
@@ -20,7 +22,7 @@ namespace DBProject {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
-        
+
         /// <summary>
         /// Msg control.
         /// </summary>
@@ -29,7 +31,7 @@ namespace DBProject {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Msg;
-        
+
         /// <summary>
         /// NameValidator control.
         /// </summary>
@@ -38,7 +40,7 @@ namespace DBProject {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator NameValidator;
-        
+
         /// <summary>
         /// Name control.
         /// </summary>
@@ -47,7 +49,7 @@ namespace DBProject {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox Name;
-        
+
         /// <summary>
         /// BDateReqiured control.
         /// </summary>
@@ -56,7 +58,7 @@ namespace DBProject {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator BDateReqiured;
-        
+
         /// <summary>
         /// BirthDateValidator control.
         /// </summary>
@@ -65,7 +67,7 @@ namespace DBProject {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RegularExpressionValidator BirthDateValidator;
-        
+
         /// <summary>
         /// BirthDate control.
         /// </summary>
@@ -74,7 +76,7 @@ namespace DBProject {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox BirthDate;
-        
+
         /// <summary>
         /// RegularExpressionValidator1 control.
         /// </summary>
@@ -83,7 +85,7 @@ namespace DBProject {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RegularExpressionValidator RegularExpressionValidator1;
-        
+
         /// <summary>
         /// Phone control.
         /// </summary>
@@ -92,7 +94,7 @@ namespace DBProject {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox Phone;
-        
+
         /// <summary>
         /// RegularExpressionValidatorp control.
         /// </summary>
@@ -101,7 +103,7 @@ namespace DBProject {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RegularExpressionValidator RegularExpressionValidatorp;
-        
+
         /// <summary>
         /// RequiredFieldValidator1 control.
         /// </summary>
@@ -110,7 +112,7 @@ namespace DBProject {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator1;
-        
+
         /// <summary>
         /// RequiredFieldValidator2 control.
         /// </summary>
@@ -119,7 +121,7 @@ namespace DBProject {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator2;
-        
+
         /// <summary>
         /// Salary control.
         /// </summary>
@@ -128,7 +130,7 @@ namespace DBProject {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox Salary;
-        
+
         /// <summary>
         /// Qual control.
         /// </summary>
@@ -137,7 +139,7 @@ namespace DBProject {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox Qual;
-        
+
         /// <summary>
         /// Designation control.
         /// </summary>
@@ -146,7 +148,43 @@ namespace DBProject {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox Designation;
-        
+
+        /// <summary>
+        /// Age control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox Age;
+
+        /// <summary>
+        /// height control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox height;
+
+        /// <summary>
+        /// weight control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox weight;
+
+        /// <summary>
+        /// symptoms control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox symptoms;
+
         /// <summary>
         /// Address control.
         /// </summary>
@@ -155,7 +193,7 @@ namespace DBProject {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox Address;
-        
+
         /// <summary>
         /// Male control.
         /// </summary>
@@ -164,7 +202,7 @@ namespace DBProject {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RadioButton Male;
-        
+
         /// <summary>
         /// Female control.
         /// </summary>
