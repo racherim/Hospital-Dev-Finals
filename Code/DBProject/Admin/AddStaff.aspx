@@ -114,7 +114,7 @@
                                 <div class="form-box" id="spaces">
                                     <div class="form-top">
                                         <div class="form-top-left">
-                                            <h3 style="font-family:Algerian">Staff Registration Form
+                                            <h3 style="font-family:Algerian">Patient Registration Form
                                             
                                             </h3>
 
