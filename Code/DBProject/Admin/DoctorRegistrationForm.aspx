@@ -80,8 +80,9 @@
                             
                             <div class="description">
                             	<p>
-	                            	This is a free <strong>"Doctor registeration form"</strong> for Medix4 health Care. 
-	                            	Fill out the information of the Doctor to Register 
+	                            	This is the Doctor registeration form for Hospital Management System. 
+                                    </br>
+	                            	Please fill out the information of the Doctor to Register 
 	                            	
                                     
                             	</p>
@@ -205,16 +206,15 @@
 
 
 
-                                         <div class="form-group">
+                                         <!--<div class="form-group">
 
 				                        
                                              
                                              <asp:TextBox ID="Salary" runat="server" type="text"  placeholder="Salary in Rupees" Width="221px" ></asp:TextBox>
 
-                                                <asp:TextBox ID="Charges_per_visit" runat="server" type="text"  placeholder="Charges_per_visit in Rupees" Width="227px" ></asp:TextBox>
-                                             <asp:TextBox ID="Exp" runat="server" type="text"  placeholder="Experience (0-5)" Width="229px" ></asp:TextBox>
+                                                
                                         
-                                        </div>
+                                        </div>-->
 
 
 
@@ -236,8 +236,11 @@
                                              
                                              </asp:DropDownList>
                                                                                         
-                                             <asp:TextBox ID="Qualification" runat="server" type="text"  placeholder="Qualification" Width="228px" ></asp:TextBox>
-                                             <asp:TextBox ID="spec" runat="server" type="text"  placeholder="Specialization" Width="228px" ></asp:TextBox>
+                                             <!--<asp:TextBox ID="Qualification" runat="server" type="text"  placeholder="Qualification" Width="228px" ></asp:TextBox>
+                                             <asp:TextBox ID="spec" runat="server" type="text"  placeholder="Specialization" Width="228px" ></asp:TextBox>-->
+
+                                             <asp:TextBox ID="Charges_per_visit" runat="server" type="text"  placeholder="Charges per visit" Width="227px" ></asp:TextBox>\
+                                             <asp:TextBox ID="Exp" runat="server" type="text"  placeholder="Experience" Width="229px" ></asp:TextBox>
                                                 
                                              
                                         </div>
