@@ -2,7 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Code",
-    "\\Code\\DBProject"
+    "\\Code\\DBProject",
+    "\\Code\\DBProject\\Admin"
   ],
   "SelectedNode": "\\Code\\DBProject\\SignUp.aspx",
   "PreviewInSolutionExplorer": false
