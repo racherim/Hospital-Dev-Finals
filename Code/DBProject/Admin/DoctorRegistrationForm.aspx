@@ -313,7 +313,7 @@
 
             
 
-        <!-- Footer -->
+        <!-- Footer
         <footer ">
         	<div class="container">
         		<div class="row">
@@ -329,7 +329,7 @@
         			
         		</div>
         	</div>
-        </footer>
+        </footer> -->
 
         <!-- Javascript -->
         <script src="/assets/js/jquery-1.11.1.min.js"></script>
