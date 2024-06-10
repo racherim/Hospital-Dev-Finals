@@ -15,7 +15,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
     
-    <div style="background-image:url(/assets/img/backgrounds/PatientHome.jpg); background-position:center; background-size:20px">
+    <div style="background-image:url(/assets/img/backgrounds/PatientHome.jpg); background-position:center; background-size:cover; margin-left:50px; background-repeat:no-repeat;">
 
         <br />
         <h1><strong style="margin:37%">Your Information</strong></h1>
