@@ -76,7 +76,7 @@
                     
                         <div class="col-sm-8 col-sm-offset-2 text">
                         
-                            <h1><strong>Medix4 Health Care</strong> Doctor Registration</h1>
+                            <h1>Hospital Management System Doctor Registration</h1>
                             
                             <div class="description">
                             	<p>
@@ -206,15 +206,16 @@
 
 
 
-                                         <!--<div class="form-group">
+                                         <div class="form-group">
 
 				                        
                                              
-                                             <asp:TextBox ID="Salary" runat="server" type="text"  placeholder="Salary in Rupees" Width="221px" ></asp:TextBox>
-
+                                             <asp:TextBox ID="Salary" runat="server" type="text"  placeholder="Salary in PHP" Width="221px" ></asp:TextBox>
+                                             <asp:TextBox ID="Charges_per_visit" runat="server" type="text"  placeholder="Charges per visit" Width="227px" ></asp:TextBox>
+                                             <asp:TextBox ID="Exp" runat="server" type="text"  placeholder="Experience" Width="229px" ></asp:TextBox>
                                                 
                                         
-                                        </div>-->
+                                        </div>
 
 
 
@@ -236,11 +237,8 @@
                                              
                                              </asp:DropDownList>
                                                                                         
-                                             <!--<asp:TextBox ID="Qualification" runat="server" type="text"  placeholder="Qualification" Width="228px" ></asp:TextBox>
-                                             <asp:TextBox ID="spec" runat="server" type="text"  placeholder="Specialization" Width="228px" ></asp:TextBox>-->
-
-                                             <asp:TextBox ID="Charges_per_visit" runat="server" type="text"  placeholder="Charges per visit" Width="227px" ></asp:TextBox>\
-                                             <asp:TextBox ID="Exp" runat="server" type="text"  placeholder="Experience" Width="229px" ></asp:TextBox>
+                                             <asp:TextBox ID="Qualification" runat="server" type="text"  placeholder="Qualification" Width="228px" ></asp:TextBox>
+                                             <asp:TextBox ID="spec" runat="server" type="text"  placeholder="Specialization" Width="228px" ></asp:TextBox>
                                                 
                                              
                                         </div>

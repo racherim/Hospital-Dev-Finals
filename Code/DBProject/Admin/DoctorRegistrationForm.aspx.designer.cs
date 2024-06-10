@@ -204,6 +204,24 @@ namespace DB_Project
         protected global::System.Web.UI.WebControls.TextBox Salary;
 
         /// <summary>
+        /// Charges_per_visit control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox Charges_per_visit;
+
+        /// <summary>
+        /// Exp control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox Exp;
+
+        /// <summary>
         /// DV control.
         /// </summary>
         /// <remarks>
@@ -238,24 +256,6 @@ namespace DB_Project
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox spec;
-
-        /// <summary>
-        /// Charges_per_visit control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Charges_per_visit;
-
-        /// <summary>
-        /// Exp control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Exp;
 
         /// <summary>
         /// Address control.
