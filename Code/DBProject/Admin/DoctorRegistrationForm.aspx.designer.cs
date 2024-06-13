@@ -87,15 +87,6 @@ namespace DB_Project
         protected global::System.Web.UI.WebControls.RegularExpressionValidator EmailformatValidator;
 
         /// <summary>
-        /// DoctorValidate control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.CustomValidator DoctorValidate;
-
-        /// <summary>
         /// RequiredFieldValidator3 control.
         /// </summary>
         /// <remarks>

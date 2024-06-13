@@ -56,12 +56,7 @@
         <link rel="stylesheet" href="/assets/css/style.css"/>
         
 
-            
-
-
-
-        <!-- Top content -->
-             	                   
+     
                       
         <div class="top-content">
        
@@ -98,7 +93,7 @@
                                     
                                     
                                     
-                                    <!--  Doctor registration form start honay laga hai :)-->
+                                    <!--  Doctor registration form start-->
                                     
                                     <div class="container myclass">
 
@@ -127,7 +122,7 @@
                                     
                                     
                                     
-                                    <!-- sign up form start honay laga hai :)-->
+                                    <!-- sign up form start-->
                                     
                                     
                                         <div class="form-group">
@@ -153,8 +148,7 @@
                                             <asp:RegularExpressionValidator ID="EmailformatValidator" runat="server" ErrorMessage="Incorrect Email Format" Display="Dynamic" ControlToValidate="Email" SetFocusOnError="True" ValidationExpression="(?:[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*|&quot;(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21\x23-\x5b\x5d-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])*&quot;)@(?:(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?|\[(?:(?:(2(5[0-5]|[0-4][0-9])|1[0-9][0-9]|[1-9]?[0-9]))\.){3}(?:(2(5[0-5]|[0-4][0-9])|1[0-9][0-9]|[1-9]?[0-9])|[a-z0-9-]*[a-z0-9]:(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21-\x5a\x53-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])+)\])" ForeColor="Red"></asp:RegularExpressionValidator>
 
                                                 
-                                            <asp:CustomValidator runat="server" Display="Dynamic" ControlToValidate="Email"    ID="DoctorValidate"  
-                                                ForeColor="Red" ErrorMessage="" OnServerValidate="ValidateDoctorEmail" SetFocusOnError="True"></asp:CustomValidator>   
+                                             
                                             
                                              <asp:RequiredFieldValidator runat="server" ErrorMessage="*Required" ControlToValidate="Email" ID="RequiredFieldValidator3" Display="Dynamic" Font-Bold="False" ForeColor="Red"></asp:RequiredFieldValidator>
 
@@ -274,22 +268,7 @@
 
 
 				                        <asp:button Text ="Add"  runat="server" type="submit" class="btn btn-primary" onclick="DoctorRegister" ></asp:button>
-				                <!-- onclick="signup" -->
-                                        
-                                    
-                                <!-- sing up ends here -->
-                                            
-                                    
-                                    
-
-			                    
-                                
-                                
-                                
-                                
-                                
-                                
-                                
+				                       
                                 </div>
                         	</div>
                         	
@@ -300,54 +279,11 @@
             </div>
             
 
-
-                                    
-
-        
-
-
-
-
-
-            
-
-        <!-- Footer
-        <footer ">
-        	<div class="container">
-        		<div class="row">
-        			
-        			<div class="col-sm-8 col-sm-offset-2">
-        				<div class="footer-border"></div>
-        				<p style="color:darkslategrey">if You have Any Query
-        					Please Feel Free to Contact US. <i class="fa fa-smile-o"></i></p>
-        			
-                   
-                    
-                    </div>
-        			
-        		</div>
-        	</div>
-        </footer> -->
-
         <!-- Javascript -->
         <script src="/assets/js/jquery-1.11.1.min.js"></script>
         <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
         <script src="/assets/js/jquery.backstretch.min.js"></script>
-        <script src="/assets/js/scripts.js"></script>
-        
-        <!--[if lt IE 10]>
-            <script src="assets/js/placeholder.js"></script>
-        <![endif]-->
-
-
-
-
-
-
-
-     
-    
-    
+        <script src="/assets/js/scripts.js"></script>  
     </form>
 </body>
 </html>

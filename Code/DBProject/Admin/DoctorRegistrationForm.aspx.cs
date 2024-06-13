@@ -11,30 +11,6 @@ namespace DB_Project
 		{
 
 		}
-
-
-
-
-		protected void ValidateDoctorEmail(object sender, ServerValidateEventArgs args)
-		{
-			myDAL objmyDAL = new myDAL();
-
-
-			if (objmyDAL.DoctorEmailAlreadyExist(Email.Text) == 1)
-			{
-				args.IsValid = false;
-				Msg.Visible = false;
-				Msg.Text = "";
-				DoctorValidate.ErrorMessage = "This Email Already exist , kindly choose a different one !";
-			}
-			else
-			{
-				args.IsValid = true;
-			}
-
-		}
-
-
 		protected void DoctorRegister(object sender, EventArgs e)
 		{
 

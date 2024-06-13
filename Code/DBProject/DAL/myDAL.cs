@@ -161,7 +161,7 @@ namespace DBProject.DAL
 
 
         /*THIS FUNCTION CHECKS WHEATHER EMAIL OF A DOCTOR ALREADY EXISTS IN THE DATABASE */
-
+/*
         public int DoctorEmailAlreadyExist(string Email)
         {
             int status = 0;
@@ -169,10 +169,10 @@ namespace DBProject.DAL
             con.Open();
 
 
-            /*
+            *//*
              @Email
              @status OUTPUT
-             */
+             *//*
 
 
             SqlCommand cmd = new SqlCommand("CheckDoctorEmail", con);
@@ -187,7 +187,7 @@ namespace DBProject.DAL
 
             return status;
         }
-
+*/
 
 
 
@@ -205,22 +205,7 @@ namespace DBProject.DAL
             SqlCommand cmd = new SqlCommand("AddDoctor", con);
             cmd.CommandType = CommandType.StoredProcedure;
 
-            /*
-            @Name 
-            @Email
-            @Password 
-            @BirthDate 
-            @dept
-            @gender
-            @Address 
-            @Exp
-            @Salary
-            @qualification
-            @phone
-            @spec
-             */
-
-
+          
             cmd.Parameters.Add("@Name", SqlDbType.VarChar, 30).Value = Name;
             cmd.Parameters.Add("@Email", SqlDbType.VarChar, 30).Value = Email;
             cmd.Parameters.Add("@Password", SqlDbType.VarChar, 30).Value = Password;

@@ -10,8 +10,6 @@
 
  <script type="text/javascript">
 
-     //dsfasdfasdfsadf//
-     //----------------------Function1-----------------------------//
      function validateEmail(Email)
      {
          if (Email == "") {
@@ -44,7 +42,6 @@
          return true;
      }
 
-     //----------------------Function2-----------------------------//
      function validateS() 
      {
          var Name      = document.getElementById('<%=sName.ClientID %>').value;
@@ -54,8 +51,6 @@
          var pass      = document.getElementById('<%=sPassword.ClientID %>').value;
          var cpass     = document.getElementById('<%=scPassword.ClientID %>').value;
          
-         /*now the validation code*/
-
          if (Name == "")
          {
              alert("Name missing. Enter Name.");
@@ -107,13 +102,13 @@
          return true;
      }
 
-     //----------------------Function2-----------------------------//
+  
      function validateL() 
      {
          var Email        = document.getElementById('<%=loginEmail.ClientID %>').value;
          var Password     = document.getElementById('<%=loginPassword.ClientID %>').value;
          
-         /*now the validation code*/
+         
 
          if (!validateEmail(Email))
              return false;
@@ -126,10 +121,6 @@
 
          return true;
      }
-
-     //------------------------------------------------------------------//
-     //------------------------------------------------------------------//
-     //------------------------------------------------------------------//
 
 </script>
 
@@ -238,7 +229,7 @@
 				                    
                                     
                                     
-                        <!-- sign up form start honay laga hai :)-->
+                        <!-- sign up form start-->
                                     
                                     
                             <div class="form-group">
@@ -296,8 +287,6 @@
                             </div>
 
 				            <asp:button Text ="SignUp"  runat="server" type="submit" class="btn btn-primary" OnClientClick="return validateS();" onclick="signupV"></asp:button>
-				                    
-                                    
                     <!-- sign up ends here -->
                                             
                                </div>
