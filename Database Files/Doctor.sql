@@ -1,18 +1,6 @@
-
-
 USE DBProject
 GO
 
-
----------------------------------------------------------------------------------
---								STORED PROCEDURES							   --
----------------------------------------------------------------------------------
-
-
-
-----------------------------(1)-------------------------------
-
----------------------Returns the Pending Appointments of Today------------ 
 create PROCEDURE PENDING_APPOINTMENTS2
 @DOCTOR_ID INT
 AS
@@ -22,12 +10,7 @@ BEGIN
 	WHERE A.DoctorID = @DOCTOR_ID AND A.Appointment_Status = 2 and DATEDIFF(DAY, A.Date, GETDATE()) = 0
 END
 
-
-
-
-----------------------------(2)-------------------------------
 GO
--------------Approves a Particular Appointment----------------
 create PROCEDURE APPROVE_APPOINTMENT
 @APPOINT_ID INT
 AS
@@ -37,12 +20,6 @@ BEGIN
 	WHERE AppointID = @APPOINT_ID
 END
 
-
-
-
-----------------------------(3)-------------------------------
-
--------------Returns the Approved Appointments of Today----------------
 GO
 create PROCEDURE TODAYS_APPOINTMENTS
 @DOC_ID INT
@@ -53,12 +30,6 @@ BEGIN
 	WHERE A.DoctorID = @DOC_ID AND A.Appointment_Status = 1 and DATEDIFF(DAY, A.Date, GETDATE()) = 0
 END
 
-
-
-
-----------------------------(4)-------------------------------
-
--------------Generates the Bill----------------
 GO
 create procedure generate_bill
 @did int
@@ -67,13 +38,6 @@ begin
 	select Charges_per_Visit as [Charges] from doctor 
 	where DoctorID=@did
 end
-
-
-
-
-----------------------------(5)-------------------------------
-
--------------When the Appointment is Completed and Bill is not Paid----------------
 
 GO
 create procedure finishedUnpaid
@@ -89,13 +53,6 @@ begin
 	set Patients_Treated = Patients_Treated + 1
 	where DoctorID = @docId
 end
-
-
-
-----------------------------(6)-------------------------------
-
--------------When the Appointment is Completed and Bill is Paid----------------
-
 
 GO
 create procedure finishedPaid
@@ -113,13 +70,6 @@ begin
 
 end
 
-
-
-
-----------------------------(7)-------------------------------
-
--------------When an Appointment is Rejected----------------
-
 GO
 create procedure delete_APPOINTMENT
 @APPOINT_ID int
@@ -130,14 +80,6 @@ begin
 	where AppointID=@APPOINT_ID
 end
 
-
-
-
-
-----------------------------(8)-------------------------------
-
-------------Display Doctor's Info----------------
-
 GO
 create procedure Doctor_Information_By_ID1
 @Id int
@@ -145,13 +87,6 @@ as
 begin 
 	select * from doctor where doctorid=@id
 end
-
-
-
-
-----------------------------(9)-------------------------------
-
-------------Update the Prescription when the Appointment is Completed----------------
 
 GO
 create procedure UpdatePrescription
@@ -168,12 +103,6 @@ begin
 	where Appointid=@appointid
 end
 
-
-
-
-----------------------------(10)-------------------------------
-
-------------To get the information about an appointment----------------
 GO
 create PROCEDURE get_appointment
 @APPOINT_ID INT
@@ -183,10 +112,6 @@ BEGIN
 	WHERE AppointID = @APPOINT_ID
 END
 
-
-
-
-----------------------------(11)-------------------------------
 GO
 create PROCEDURE retrievePHistory
 @dID INT
@@ -196,5 +121,3 @@ BEGIN
 		from Appointment A join Patient P on A.PatientID = P.PatientID
 		where DoctorID = @dId and Appointment_Status = 3
 END
-
-

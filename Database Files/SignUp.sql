@@ -2,24 +2,6 @@
 USE DBProject
 GO
 
-/*----------------------------------------------------------------*/
-/*-----------------------------SignUp-----------------------------*/
-/*----------------------------------------------------------------*/
-
-----------------------------(1)-------------------------------
-
-/*
-returns status = 0 if successful
-		status = 1 if email not found
-		status = 2 if password is wrong
-
-
-returns ID of person and type of person i.e patient, doctor, admin on success
-returns ID = 0, type = 0 on failure
---Type: 1 -- Patient
---Type: 2 -- Doctor
---Type: 3 -- Admin
-*/
 
 create procedure Login
 
@@ -56,14 +38,6 @@ begin
 end
 
 
-
-----------------------------(2)-------------------------------
-/*
-Signups new patient
-
-returns status = 1 on success
-returns status = 0 if patient already exists
-*/
 GO
 create procedure PatientSignup
 
