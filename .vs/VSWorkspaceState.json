@@ -3,9 +3,7 @@
     "",
     "\\Code",
     "\\Code\\DBProject",
-    "\\Code\\DBProject\\Admin",
-    "\\Code\\DBProject\\DAL",
-    "\\Database Files"
+    "\\Code\\DBProject\\DAL"
   ],
   "SelectedNode": "\\Code\\DBProject\\SignUp.aspx",
   "PreviewInSolutionExplorer": false

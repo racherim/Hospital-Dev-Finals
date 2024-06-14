@@ -7,19 +7,23 @@
       "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\dbproject\\dal\\mydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\dal\\mydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\dbproject\\doctor\\doctormaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\doctor\\doctormaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|c:\\users\\mikol\\documents\\github\\hospital-dev-finals\\code\\dbproject\\patient\\takeappointment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\dbproject\\patient\\takeappointment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\patient\\takeappointment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|c:\\users\\mikol\\documents\\github\\hospital-dev-finals\\code\\dbproject\\patient\\patientmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\dbproject\\patient\\patientmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\patient\\patientmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|c:\\users\\mikol\\documents\\github\\hospital-dev-finals\\code\\dbproject\\admin\\doctorregistrationform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\dbproject\\admin\\doctorregistrationform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\admin\\doctorregistrationform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -27,16 +31,12 @@
       "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\admin\\doctorregistrationform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|c:\\users\\mikol\\documents\\github\\hospital-dev-finals\\code\\dbproject\\patient\\patientfeedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\dbproject\\patient\\patientfeedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\patient\\patientfeedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\dbproject\\patient\\patienthome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\patient\\patienthome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\dbproject\\dal\\mydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|solutionrelative:dbproject\\dal\\mydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2ABDB6C-A1B7-460C-84D1-FB2317C5C666}|DBProject\\Clinic Management System.csproj|C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\dbproject\\doctor\\doctorhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -102,13 +102,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "myDAL.cs",
               "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\DBProject\\DAL\\myDAL.cs",
               "RelativeDocumentMoniker": "DBProject\\DAL\\myDAL.cs",
               "ToolTip": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\DBProject\\DAL\\myDAL.cs",
               "RelativeToolTip": "DBProject\\DAL\\myDAL.cs",
-              "ViewState": "AQIAAA4EAAAAAAAAAAAqwCIEAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T16:08:42.491Z",
               "IsPinned": true,
@@ -130,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DoctorRegistrationForm.aspx",
               "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\DBProject\\Admin\\DoctorRegistrationForm.aspx",
               "RelativeDocumentMoniker": "DBProject\\Admin\\DoctorRegistrationForm.aspx",
@@ -139,12 +139,11 @@
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-06-13T14:13:15.703Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DoctorRegistrationForm.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\DBProject\\Admin\\DoctorRegistrationForm.aspx.cs",
               "RelativeDocumentMoniker": "DBProject\\Admin\\DoctorRegistrationForm.aspx.cs",
@@ -153,8 +152,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAnwAwAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T15:50:21.602Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -162,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TakeAppointment.aspx",
               "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\DBProject\\Patient\\TakeAppointment.aspx",
               "RelativeDocumentMoniker": "DBProject\\Patient\\TakeAppointment.aspx",
@@ -170,12 +168,11 @@
               "RelativeToolTip": "DBProject\\Patient\\TakeAppointment.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-13T15:15:31.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T15:15:31.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PatientMaster.Master",
               "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\DBProject\\Patient\\PatientMaster.Master",
               "RelativeDocumentMoniker": "DBProject\\Patient\\PatientMaster.Master",
@@ -183,12 +180,11 @@
               "RelativeToolTip": "DBProject\\Patient\\PatientMaster.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-13T15:12:09.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T15:12:09.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PatientFeedback.aspx",
               "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\DBProject\\Patient\\PatientFeedback.aspx",
               "RelativeDocumentMoniker": "DBProject\\Patient\\PatientFeedback.aspx",
@@ -196,8 +192,7 @@
               "RelativeToolTip": "DBProject\\Patient\\PatientFeedback.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-13T15:06:06.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T15:06:06.646Z"
             },
             {
               "$type": "Document",
@@ -209,12 +204,11 @@
               "RelativeToolTip": "DBProject\\Admin\\Admin.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-10T14:50:21.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T14:50:21.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DoctorMaster.Master",
               "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\DBProject\\Doctor\\DoctorMaster.Master",
               "RelativeDocumentMoniker": "DBProject\\Doctor\\DoctorMaster.Master",
@@ -222,8 +216,7 @@
               "RelativeToolTip": "DBProject\\Doctor\\DoctorMaster.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-10T14:59:04.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T14:59:04.156Z"
             },
             {
               "$type": "Document",
@@ -235,8 +228,7 @@
               "RelativeToolTip": "DBProject\\SignUp.aspx.cs",
               "ViewState": "AQIAAFMAAAAAAAAAAAAwwHsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T16:34:26.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T16:34:26.136Z"
             },
             {
               "$type": "Document",
@@ -248,12 +240,11 @@
               "RelativeToolTip": "DBProject\\Doctor\\DoctorHome.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-10T15:00:39.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T15:00:39.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "PatientHome.aspx",
               "DocumentMoniker": "C:\\Users\\Mikol\\Documents\\GitHub\\Hospital-Dev-Finals\\Code\\DBProject\\Patient\\PatientHome.aspx",
               "RelativeDocumentMoniker": "DBProject\\Patient\\PatientHome.aspx",
@@ -261,8 +252,7 @@
               "RelativeToolTip": "DBProject\\Patient\\PatientHome.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-10T17:32:19.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T17:32:19.537Z"
             },
             {
               "$type": "Document",
@@ -274,8 +264,7 @@
               "RelativeToolTip": "DBProject\\Doctor\\PatientHistory.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-10T15:35:23.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T15:35:23.398Z"
             },
             {
               "$type": "Document",
@@ -287,8 +276,7 @@
               "RelativeToolTip": "DBProject\\Patient\\ViewDoctors.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-10T17:35:04.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T17:35:04.992Z"
             },
             {
               "$type": "Document",
@@ -300,8 +288,7 @@
               "RelativeToolTip": "DBProject\\Admin\\AdminHome.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-10T14:41:51.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T14:41:51.484Z"
             },
             {
               "$type": "Document",
@@ -326,8 +313,7 @@
               "RelativeToolTip": "DBProject\\Admin\\DoctorRegistrationForm.aspx.designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T16:07:10.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T16:07:10.003Z"
             },
             {
               "$type": "Document",
@@ -339,8 +325,7 @@
               "RelativeToolTip": "DBProject\\Admin\\AddStaff.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-10T12:42:17.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T12:42:17.384Z"
             },
             {
               "$type": "Document",
@@ -352,8 +337,7 @@
               "RelativeToolTip": "DBProject\\Admin\\ManageClinic.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-10T15:35:36.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T15:35:36.078Z"
             },
             {
               "$type": "Document",
@@ -365,8 +349,7 @@
               "RelativeToolTip": "DBProject\\Doctor\\DoctorMaster.Master.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T14:59:15.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T14:59:15.622Z"
             },
             {
               "$type": "Document",
@@ -378,8 +361,7 @@
               "RelativeToolTip": "DBProject\\Doctor\\DoctorMaster.Master.designer.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T14:59:17.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T14:59:17.269Z"
             },
             {
               "$type": "Document",
@@ -391,8 +373,7 @@
               "RelativeToolTip": "DBProject\\Doctor\\PreviousHistory.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-10T15:01:22.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T15:01:22.788Z"
             }
           ]
         }
