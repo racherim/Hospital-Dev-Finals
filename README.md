@@ -1,6 +1,6 @@
 # ⚕️ Clinic Management System - Made using C#, ASP.net
 
-A fully featured Clinic Management System having a well designed Database Schema made as a final project for the course "Application Development with .NET and Web Services CS624" during my Semester at [Pace
+A fully featured Clinic Management System having a well designed Database Schema made as a final project for the course Web Design Course.
 ### Signup Page 
 <img src="images/main1.png"/>
 
