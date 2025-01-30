@@ -1,7 +1,6 @@
-# ⚕️ Hospital Management System - Made using C#, ASP.net
+# ⚕️ Clinic Management System - Made using C#, ASP.net
 
-A fully featured Clinic Management System having a well designed Database Schema made as a final project for the course "Application Development with .NET and Web Services CS624" during my Semester at [Pace University](https://www.pace.edu/). Its based on the 3 Tier Architecture.
-
+A fully featured Clinic Management System having a well designed Database Schema made as a final project for the course "Application Development with .NET and Web Services CS624" during my Semester at [Pace
 ### Signup Page 
 <img src="images/main1.png"/>
 
