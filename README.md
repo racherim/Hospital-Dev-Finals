@@ -2,16 +2,12 @@
 
 A fully featured Clinic Management System having a well designed Database Schema made as a final project for the course Web Design Course.
 ### Signup Page 
-<img src="images/main1.png"/>
 
 ### Take Appointment
-<img src="images/appointment1.png"/> 
 
 ### Current Appointments
-<img src="images/current1.png"/> 
 
 ### Search Staff
-<img src="images/search.png"/> 
 
 ### 1. Patient:
 
@@ -41,28 +37,3 @@ A fully featured Clinic Management System having a well designed Database Schema
 * **4.	View Other Staff**: Admin can view other staff members along with their designations.
 * **5.	Search Box**: Admin can search for a specific employ within the company by name
 * **6.	Add/Remove**: Admin can Add/remove doctors patients and other staff members form the clinic.
-
-
-## How to Run
-1- Install the following:
-* [Microsoft Visual Studio](https://visualstudio.microsoft.com/vs/community/)
-* [Microsoft SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-editions-express)
-* [Microsoft SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017)
-
-2- Open SQL Server Management Studio and in the "Connect to Database Engine" window type the following:
-```
-Servername: .\SQLEXRPESS
-Authentication: Windows Authentication 
-```
-<p align="center">
-<img src="images/connection.png" width = "500"/> 
-</p>
-
-3- Now open Schema.sql file in Database Files folder and execute it all. This will create the database and the tables. Afterwards execute the following sql files: Admin.sql, Doctor.sql, Patient.sql, Signup.sql.
-
-4- Now execute the Insertions.sql file in Database Files folder. This will populate the database with some test entries. Moreover, some login emails and passwords of doctors, patients and admin are placed in the Insertions.sql file. You can use them to test the functionalities of the system.
-
-5- Everything is setup now! You can run the Visual Studio Project by opening Clinic Management System.sln and then select the SignUp.aspx page and click run button named IIS Express. 
-<p align="center">
-<img src="images/run1.png"/> 
-</p>
